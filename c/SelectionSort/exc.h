@@ -1,0 +1,1 @@
+void exc(int *arr, int i,int j);

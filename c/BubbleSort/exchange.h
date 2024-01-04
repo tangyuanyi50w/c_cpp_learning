@@ -1,0 +1,1 @@
+void exch(int *arr,int *pj);

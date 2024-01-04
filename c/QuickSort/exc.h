@@ -1,0 +1,1 @@
+void exc(int *pi,int*pj);
